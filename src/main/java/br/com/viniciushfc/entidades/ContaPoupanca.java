@@ -1,6 +1,9 @@
-package br.com.viniciushfc;
+package br.com.viniciushfc.entidades;
 
-public class ContaPoupanca extends Conta{
+import br.com.viniciushfc.entidades.Cliente;
+import br.com.viniciushfc.entidades.Conta;
+
+public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(Cliente cliente) {
         super(cliente);

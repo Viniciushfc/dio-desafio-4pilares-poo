@@ -1,6 +1,8 @@
-package br.com.viniciushfc;
+package br.com.viniciushfc.entidades;
 
-public abstract class Conta implements ContaImpl{
+import br.com.viniciushfc.UseCases.ContaImpl;
+
+public abstract class Conta implements ContaImpl {
 
     private static final int AGENCIA_PADRAO = 1;
     private static int SEQUENCIAL = 1;

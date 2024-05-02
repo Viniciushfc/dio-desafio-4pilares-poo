@@ -1,7 +1,9 @@
 package br.com.viniciushfc;
 
-import java.util.ArrayList;
-import java.util.List;
+import br.com.viniciushfc.entidades.Cliente;
+import br.com.viniciushfc.entidades.Conta;
+import br.com.viniciushfc.entidades.ContaCorrente;
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,6 @@
-package br.com.viniciushfc;
+package br.com.viniciushfc.UseCases;
+
+import br.com.viniciushfc.entidades.Conta;
 
 public interface ContaImpl {
 

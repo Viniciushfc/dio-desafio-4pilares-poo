@@ -1,4 +1,4 @@
-package br.com.viniciushfc;
+package br.com.viniciushfc.entidades;
 
 import lombok.Data;
 
